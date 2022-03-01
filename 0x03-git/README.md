@@ -1,1 +1,1 @@
-All the files on the classwork tasks
+This directory contains all the files on the classwork tasks
